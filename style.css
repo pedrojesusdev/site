@@ -1,0 +1,67 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+}
+ul {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    color: white;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-top: 70px;
+    margin-bottom:70px;
+    background-color: black;
+    color:white;
+}
+
+img[src="Images/py_logo_resized.png"] {
+     width: 15px;
+    height: auto;
+}
+
+img[src="Images/JavaScript-Symbol-500x281_resized.png"] {
+    width: 20px;
+    height: auto;
+}
+
+h1{
+    font-family: 'copperplate',sans-serif,monospace;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 70px;
+    background-color: blue;
+    display: inline;
+    color: white;
+    padding: 0 10px;
+    
+}
+h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    display: inline;
+    padding: 0 10px;
+    color:white;
+    padding-right: -200px;
+}
+h3{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+    display: inline;
+    padding: 0 10px;
+    color:white;
+}
+img[src="images/foto.perfil.png"]{
+    margin-top: 30px;
+    float: inline-end;
+    width: 400px;
+    height: auto;
+    border-radius: 50%;
+}
